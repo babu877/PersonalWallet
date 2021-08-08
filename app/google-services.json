@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1098869167648",
+    "firebase_url": "https://personalvault-115ae.firebaseio.com",
+    "project_id": "personalvault-115ae",
+    "storage_bucket": "personalvault-115ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098869167648:android:906b6c0243a1650064ce45",
+        "android_client_info": {
+          "package_name": "com.example.personalwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098869167648-5oog5va7fpqs1jjo9k6m7ibhai5p605r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personalwallet",
+            "certificate_hash": "ad1a0484571958488cfa703713b6bb9baa3fa88d"
+          }
+        },
+        {
+          "client_id": "1098869167648-ic1q3b3miirmlvhn1sfphha83nvt83pa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personalwallet",
+            "certificate_hash": "b52626b087076eff930a3a31b3ca321737897547"
+          }
+        },
+        {
+          "client_id": "1098869167648-n6j90fgp8jctef31qjta7b5fak6as2j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9p0_Xjg7Gc-6qO01bXK7sG-yDvd0A-DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098869167648-n6j90fgp8jctef31qjta7b5fak6as2j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
